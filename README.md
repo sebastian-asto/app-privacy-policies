@@ -4,7 +4,7 @@ This repository contains the official privacy policies for mobile applications d
 
 ## Applications
 
-- BatteryLab
+- Battery Runtime Calculator
 - OhmLab (coming soon)
 - PowerLab (coming soon)
 - SensorLab (coming soon)
